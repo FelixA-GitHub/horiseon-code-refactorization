@@ -7,7 +7,7 @@ Refactorization of index and css files for Horiseon website challenge. Had to ma
 - repository named appropriately and had multiple commit messages
 
 
-![Horiseon Office Meeting!](./Develop/assets/images/horiseon-screenshot.jpeg "Horiseon website")
+![Horiseon Office Meeting!!](./Develop/assets/images/horiseon-screenshot.jpeg "Horiseon website")
 
 
 https://felixa-github.github.io/horiseon-code-refactorization/
